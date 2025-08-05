@@ -1,0 +1,77 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product-chain-1.png",
+      "title": "Front-End",
+      "description": "I craft responsive and interactive user interfaces using HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, and React. My focus is on building pixel-perfect designs that are optimized for performance and deliver an exceptional user experience across all devices."
+    },
+    {
+      "id": "2",
+      "src": "./img/tag-1.png",
+      "title": "Back-End",
+      "description": "I develop robust and scalable backend systems using Laravel and the MERN stack (MongoDB, Express.js, React, Node.js). From database architecture to API integrations, I ensure secure and efficient server-side operations for modern web applications."
+    },
+    {
+      "id": "3",
+      "src": "./img/feather-pen-2.png",
+      "title": "UI & UX Design",
+      "description": "I design clean, intuitive, and user-friendly interfaces that prioritize usability and user engagement. My design approach combines aesthetics with functionality to deliver seamless digital experiences."
+    },
+    {
+      "id": "4",
+      "src": "./img/feather-pen-1.png",
+      "title": "WordPress Development",
+      "description": "I create custom WordPress websites and themes that are fully responsive, SEO-friendly, and easy to manage. Whether you need a personal blog, business site, or e-commerce store, I build solutions that align with your goals."
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/placeholder-image.jpg",
+      "title": "Real Estate Property Listing Website for UAE (Laravel)",
+      "description": "A full-featured real estate website built using Laravel, tailored for the UAE property market. It enables users to explore properties for rent and sale, filter by city (Dubai, Abu Dhabi, Sharjah, etc.), price, type (villa, apartment, commercial), and contact agents.",
+      "link": "View Project"
+    },
+    {
+      "id": "2",
+      "src": "./img/placeholder-image-1.jpg",
+      "title": "Laravel-Based Financial Tracking & Vehicle Management System",
+      "description": "A custom Laravel-based financial and vehicle management system for HR Motors. It tracks car purchases from Japan, multi-stage shipments, payments (cash, cheque, online), sales to customers, and miscellaneous expenses. Features include an AdminLTE dashboard, invoice generation, and role-based user access.",
+      "link": "View Project"
+    },
+    {
+      "id": "3",
+      "src": "./img/placeholder-image-2.jpg",
+      "title": "Modern MERN-Based E-Commerce Platform",
+      "description": "A scalable, secure, and fully-featured e-commerce website built with Mern. It allows users to browse products, add to cart, checkout securely, and manage orders. The admin dashboard enables product, category, and order management. The application supports discount coupons, dynamic pricing, product search, and responsive design for all devices.",
+      "link": "View Project"
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "count": "5",
+      "src": "./img/avatar-image.png",
+      "description": "Abid Ali was absolutely amazing, he was right on time even fast than I expected. Brilliant communication got back to me immediately and completely worked with my schedule. Cheers and thank you I am already ready for the next project. Thanks dear!",
+      "author_name": "Pauldacnd",
+      "author_designation": "Fiverr"
+    },
+    {
+      "id": "2",
+      "count": "5",
+      "src": "./img/avatar-image-1.png",
+      "description": "This website exceeds all my expectations! It’s exactly what I envisioned, and more. The design is stunning, the functionality is flawless, and it truly represents our brand in the best light possible. Thank you for your dedication, expertise, and for bringing our vision to life. I couldn’t be happier with the result!",
+      "author_name": "Muneeb Rashid",
+      "author_designation": "Fiverr"
+    },
+    {
+      "id": "3",
+      "count": "5",
+      "src": "./img/avatar-image-2.png",
+      "description": "Working with you on our website has been an absolute pleasure. Your attention to detail and commitment to delivering a top-notch product truly shines through. Our website now reflects the professionalism and quality we strive for as a company. Thank you for your hard work and expertise – it’s made a significant impact on our online presence.",
+      "author_name": "Faiqmohd",
+      "author_designation": "Fiverr"
+    }
+  ]
+}
